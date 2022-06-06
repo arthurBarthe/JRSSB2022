@@ -7,4 +7,5 @@ May take a while to load.
 Matlab implementation with examples from the paper: https://github.com/arthurBarthe/debiased-spatial-whittle-matlab
 
 Python implementation with additional examples: https://github.com/arthurBarthe/debiased-spatial-whittle
-The package can be downloaded from Pypi: pip install debiased-spatial-whittle
+
+The Python package can be downloaded from Pypi: pip install debiased-spatial-whittle
