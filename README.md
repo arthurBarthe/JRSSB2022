@@ -1,4 +1,4 @@
-# JRSSB2022
+# JRSSB2022: The Spatial Debiased Whittle Likelihood
 This repository contains link to different implementations of the Spatial Debiased Whittle Likelihood, and a link to a live demo.
 
 Live demo: http://arthurpgb.pythonanywhere.com/sdw
