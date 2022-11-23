@@ -15,3 +15,5 @@ The Python package can be downloaded from Pypi: pip install debiased-spatial-whi
 Versions (Python only)
 
 V0.2 - Switch to OOP implementation and adds some unit tests. No breaking changes.
+
+V0.1 - First implementation
