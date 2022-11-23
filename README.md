@@ -9,3 +9,9 @@ Matlab implementation with examples from the paper: https://github.com/arthurBar
 Python implementation with additional examples: https://github.com/arthurBarthe/debiased-spatial-whittle
 
 The Python package can be downloaded from Pypi: pip install debiased-spatial-whittle
+
+
+
+Versions (Python only)
+
+V0.2 - Switch to OOP implementation and adds some unit tests. No breaking changes.
